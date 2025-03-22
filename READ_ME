@@ -1,0 +1,7 @@
+First Install stream lit lib
+
+pip install  pip install streamlit
+
+To run the file
+
+streamlit run dashboard.py
